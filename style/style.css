@@ -13,3 +13,22 @@ body {
     margin-left: 33%;
 
 }
+
+
+.items {
+    background-color: aquamarine;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.list {
+    background-color: aquamarine;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.item {
+    background-color: aquamarine;
+}
