@@ -7,13 +7,19 @@ body {
     background-color: aquamarine;
     color: coral;
     padding-top: 30px;
+    padding-right: 15px;
     padding-bottom: 30px;
+    padding-left: 15px;
     margin: 0 auto;
     margin-right: 33%;
     margin-left: 33%;
-
+    margin-bottom: 50px;
 }
 
+.row {
+    padding-left: 7.5%;
+    padding-right: 7.5%;
+}
 
 .items {
     background-color: aquamarine;
@@ -24,6 +30,7 @@ body {
 
 .list {
     background-color: aquamarine;
+    color: coral;
     text-align: center;
     margin: 0 auto;
     margin-top: 40px;
@@ -31,4 +38,5 @@ body {
 
 .item {
     background-color: aquamarine;
+    color: coral;
 }
