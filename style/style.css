@@ -1,0 +1,15 @@
+body {
+    background-color: coral;
+}
+
+.header h1 {
+    text-align: center;
+    background-color: aquamarine;
+    color: coral;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+    margin-right: 33%;
+    margin-left: 33%;
+
+}
