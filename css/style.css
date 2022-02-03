@@ -4,7 +4,7 @@ body {
 
 .header h1 {
     text-align: center;
-    background-color: aquamarine;
+    background-color: cyan;
     color: coral;
     padding-top: 30px;
     padding-right: 15px;
@@ -14,6 +14,7 @@ body {
     margin-right: 33%;
     margin-left: 33%;
     margin-bottom: 50px;
+    border: inset;
 }
 
 .row {
@@ -22,21 +23,23 @@ body {
 }
 
 .items {
-    background-color: aquamarine;
     text-align: center;
     margin: 0 auto;
     margin-top: 40px;
 }
 
 .list {
-    background-color: aquamarine;
+    background-color: cyan;
     color: coral;
     text-align: center;
     margin: 0 auto;
     margin-top: 40px;
+    border: inset;
 }
 
 .item {
     background-color: aquamarine;
     color: coral;
+    background-color: cyan;
+    border: inset;
 }
