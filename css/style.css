@@ -4,6 +4,7 @@ body {
 
 .header h1 {
     text-align: center;
+    font-family: 'Yellowtail', cursive;
     background-color: cyan;
     color: coral;
     padding-top: 30px;
@@ -15,6 +16,10 @@ body {
     margin-left: 33%;
     margin-bottom: 50px;
     border: inset;
+}
+
+.fas {
+    margin-left: 15px;
 }
 
 .row {
