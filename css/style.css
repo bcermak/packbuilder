@@ -22,14 +22,12 @@ body {
     margin-left: 15px;
 }
 
-.navbar {
+footer {
     font-family: 'Yellowtail', cursive;
     background-color: cyan;
     color: coral;
-    justify-content: center;
+    text-align: center;
 }
-
-
 
 .row {
     padding-left: 7.5%;
