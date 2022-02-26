@@ -1,0 +1,11 @@
+#listDiv {
+    background-color: blueviolet;
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+#itemList {
+    display: inline-block;
+}
