@@ -23,7 +23,7 @@ function ItemsForm() {
             
         })}>
             <input {...register("item")} placeholder="Item"/> <br/>
-            <input type="submit" />
+            <input id="submitBtn" type="submit" />
         </form>
     </div>
   )

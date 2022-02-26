@@ -1,5 +1,4 @@
 #itemForm {
-   background-color: blue;
    text-align: center;
    display: inline-block;
 }
@@ -8,4 +7,8 @@
     margin-top: 25px;
     display: block;
     text-align: center;
+}
+
+#submitBtn {
+    margin-top: 5px;
 }

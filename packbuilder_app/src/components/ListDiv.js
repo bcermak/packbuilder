@@ -1,8 +1,6 @@
 import React from 'react';
 import './ListDiv.css';
 
-
-
 function ListDiv() {
 
     const clearDiv = () => {
