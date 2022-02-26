@@ -12,13 +12,12 @@ function ItemsForm() {
             let itemArr = [];
             itemArr.push(item);
             console.log(itemArr);
-            // let list = document.getElementById('itemList');
-             
-            //  itemArr.forEach((item) => {
-            //     let li = document.createElement('li');
-            //     li.innerText = item;
-            //     list.appendChild(li);
-            //  })
+            let list = document.getElementById('itemList');  
+            itemArr.forEach((item) => {
+            let li = document.createElement('li');
+            li.innerText = JSON.stringify(item);
+            list.appendChild(li);
+            })
 
             // let ul = document.getElementById('itemList');
             // let li = document.createElement('li');
