@@ -20,14 +20,6 @@ function ItemsForm() {
             list.appendChild(li);
             form.reset();
             })
-
-            // let ul = document.getElementById('itemList');
-            // let li = document.createElement('li');
-            // li.appendChild(document.createTextNode(JSON.stringify(item)));
-            // li.setAttribute("class", 'newItem');
-            // ul.appendChild(li);
-           
-            
             
         })}>
             <input {...register("item")} placeholder="Item"/> <br/>

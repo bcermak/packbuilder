@@ -9,3 +9,11 @@
 #itemList {
     display: inline-block;
 }
+
+#clearList {
+    margin-top: 25px;
+}
+
+.main {
+    text-align: center;
+}
