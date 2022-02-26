@@ -9,6 +9,7 @@ function ItemsForm() {
   return (
     <div id='itemsDiv'>
         <form id='itemForm' onSubmit={handleSubmit((item)=> {
+            let form = document.getElementById('itemForm');
             let itemArr = [];
             itemArr.push(item);
             console.log(itemArr);
@@ -17,6 +18,7 @@ function ItemsForm() {
             let li = document.createElement('li');
             li.innerText = JSON.stringify(item);
             list.appendChild(li);
+            form.reset();
             })
 
             // let ul = document.getElementById('itemList');
